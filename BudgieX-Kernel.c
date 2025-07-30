@@ -959,8 +959,8 @@ static const char* dummy_padding[] = {
     "IDT stores interrupt handlers and is loaded during init.",
     "Tasks have states and priorities managed by the scheduler.",
     "This is a minimal but expandable kernel framework.",
-    "Feel Free to explore my custom OS.",
-    "       2025 BudgieX Corp.",
+    "Feel Free to explore my custom Kernel.",
+    "       Copyright 2025 BudgieX",
     "      All Rights Reserved",
     NULL
 };
